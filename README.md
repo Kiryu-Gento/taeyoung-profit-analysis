@@ -29,7 +29,7 @@ Python, Pandas, Matplotlib
 ---
 
 ## 📁 코드
-👉 [taeyoung_profit_analysis.ipynb 바로 보기](./taeyoung_profit_analysis.ipynb)
+👉 [taeyoung_analysis.ipynb 바로 보기](./taeyoung_analysis.ipynb)
 
 ---
 
