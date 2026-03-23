@@ -29,6 +29,28 @@
 
 ---
 
+## Data Note
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
 ## 📁 코드
 👉 [taeyoung_analysis.ipynb 바로 보기](./taeyoung_analysis.ipynb)
 
