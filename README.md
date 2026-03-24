@@ -4,6 +4,11 @@
 
 ---
 
+## 사용 코드
+👉 [taeyoung_analysis.ipynb 바로 보기](./taeyoung_analysis.ipynb)
+
+---
+
 ## 1. 프로젝트 개요
 음식점 POS 데이터 분석을 통한 매출 구조 진단 및 수익성 향상을 위한 재고·마케팅 최적화 전략 수립 프로젝트
 
