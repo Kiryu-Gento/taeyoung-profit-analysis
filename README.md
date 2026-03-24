@@ -103,6 +103,3 @@
 - NumPy (Excel 병행 활용)
 
 ---
-
-## 사용 코드
-👉 [taeyoung_analysis.ipynb 바로 보기](./taeyoung_analysis.ipynb)
